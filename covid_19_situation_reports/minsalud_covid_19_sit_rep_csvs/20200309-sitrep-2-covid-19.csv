@@ -1,0 +1,4 @@
+"ID de caso","Fecha de diagnóstico","Ciudad de ubicación","Atención","Edad","Sexo","Tipo*","País de procedencia"
+"1","6/3/2020","Bogotá","casa","10 a 19","F","Importado","Italia"
+"2","9/3/2020","Buga","hospital","30 a 39","M","Importado","España"
+"3","9/3/2020","Medellín","casa","50 a 59","F","Importado","España"
