@@ -12,7 +12,7 @@ This folder contains daily time series summary tables, including confirmed, deat
 
 **Longitude:** Is a geographic coordinate that specifies the east-west position of a point on the Earth's surface.
 
-**Date fields:** MM/DD/YYYY (UTC), the same data as MM-DD-YYYY.csv file. These fields contain the number of daily confirmed ([time_series_covid19_confirmed.csv](time_series_covid19_confirmed)), deaths ([time_series_covid19_deaths.csv](time_series_covid19_deaths.csv)) and recovered ([time_series_covid19_recovered.csv](time_series_covid19_recovered.csv)) cases reported by the state.
+**Date fields:** MM/DD/YYYY (UTC), the same data as MM-DD-YYYY.csv file. These fields contain the number of daily confirmed ([time_series_covid19_confirmed.csv](time_series_covid19_confirmed.csv)), deaths ([time_series_covid19_deaths.csv](time_series_covid19_deaths.csv)) and recovered ([time_series_covid19_recovered.csv](time_series_covid19_recovered.csv)) cases reported by the state.
  
 ## Update frequency 
 
