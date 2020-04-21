@@ -2,21 +2,21 @@
 
 This is the data repository for the 2019 Novel Coronavirus (formerly known as 2019-nCoV infection or simply COVID-19). The main objective of this repository is to facilitate access to COVID-19 data in Colombia to bring a more comprehensive picture of the current situation.
 
-[The COVID-19 Colombia Project](http://www.coviddataproject.com/) designed this data repository for tracking the evolution of the 2019-nCoV in Colombia. These datasets it is being made available to the public interested (researchers, scientists, news media, and government officials) who would like to understand the outbreak better. 
+[The COVID-19 Colombia Project](https://coviddataproject.com/) designed this data repository for tracking the evolution of the 2019-nCoV in Colombia. These datasets it is being made available to the public interested (researchers, scientists, news media, and government officials) who would like to understand the outbreak better. 
 
-The repository databases can be used to power any dashboard and serve to report tracking the virus in all departments, municipals, and cities from Colombia. 
+The repository databases can be used to power any dashboard and serve to report tracking the virus in all departments, municipalities, and cities from Colombia. 
 
 ## Data Sources:
 
 * **Datos Abiertos Colombia:** https://www.datos.gov.co/
 * **Instituto Nacional de Salud (INS):** https://www.ins.gov.co/
 * **Ministerio de Salud (MINSALUD):** https://www.minsalud.gov.co/
-* **Ministerio de TecnologÌas de la InformaciÛn y las Comunicaciones (MINTIC):** https://www.mintic.gov.co/portal/inicio/
+* **Ministerio de Tecnolog√≠as de la Informaci√≥n y las Comunicaciones (MINTIC):** https://www.mintic.gov.co/
 
 
 # Methodology
 
-The data is the product of professionals working across several cities from Colombia, that monitor local news and analyze official data releases. It is also a response to the official reports of INS and MINSALUD that, on several occasions, have corrected information hours or days after first reporting it. At times, cases have moved a patient first identified in municipal or city to another, often with no explanation. These instances have become more common as the number of cases in Colombia has grown.
+The data is the product of professionals working across several cities from Colombia, that monitor local news and analyze official data releases. It is also a response to the official reports of INS and MINSALUD that, on several occasions, have corrected information hours or days after first reporting it. At times, cases have moved a patient first identified in municipality or city to another, often with no explanation. These instances have become more common as the number of cases in Colombia has grown.
 
 For those reasons, our data will, in some cases, not exactly match the information reported. Those differences include, among others, these cases: 
 
@@ -45,8 +45,8 @@ Elis Hading Daza Escorcia | mr.daza@ingenieros.com | [@MrDaza](https://github.co
 
 Institution      | Research Center    				| City, Country
 -----------------|----------------------------------|-------------------
-Universidad Konrad Lorenz | Research Center for Mathematics and Engineering | Bogot·, Colombia.
-inHouse SAS | Research and Development | Bogot·, Colombia.
+Universidad Konrad Lorenz | Research Center for Mathematics and Engineering | Bogot√°, Colombia.
+inHouse SAS | Research and Development | Bogot√°, Colombia.
 
 
 # How to Contribution
@@ -72,7 +72,7 @@ In general, we are making this data publicly available for broad, noncommercial 
 
 If you use this data, you must attribute it to " **The COVID-19 Colombia Project** " in any publication. If you would like a more expanded description of the data, you could say, " **Data from The COVID-19 Colombia Project** ", based on reports from the Ministry of Health (MINSALUD).
 
-If you use it in an online presentation, we would appreciate it if you would link to our web page at www.CovidDataProject.com.
+If you use it in an online presentation, we would appreciate it if you would link to our web page at CovidDataProject.com.
 
 If you use this data, please let us know at CovidDataProject@gmail.com.
 
@@ -83,4 +83,4 @@ This license is co-extensive with the Creative Commons Attribution-NonCommercial
 
 
 ---
-[The COVID-19 Colombia Project](http://www.coviddataproject.com/)
+[The COVID-19 Colombia Project](https://coviddataproject.com/)
