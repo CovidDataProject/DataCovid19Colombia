@@ -10,11 +10,17 @@ These files have been cleaned and re-formatted to address inconsistencies in the
 
 **Additional Notes**
 
-**Time Zone:** The MINSALUD report in Bogot·, Colombia time (UTC -5). All data in this folder is in UTC -5.
+**Time Zone:** The MINSALUD report in Bogot√°, Colombia time (UTC -5). All data in this folder is in UTC -5.
 
 **Update Frequency:** We maintain this dataset daily at the same moment MINSALUD delivers the official COVID-19 situation reports.
 
+Handling errors
 
+GitHub cannot make all files beautiful and searchable if these are too large. The GitHub rendering only works for files up to 512KB. Anything more significant than that slows down the browser. For more information, please see: https://help.github.com/en/github/managing-files-in-a-repository/rendering-csv-and-tsv-data#handling-errors
+
+```
+In files [20200419-sitrep-54-covid-19.csv](/minsalud_covid_19_sit_rep_csvs/20200419-sitrep-54-covid-19.csv) onwards are not searchable. These files are exceeding the size (512KB) allowed by GitHub because they slow down the browser.
+```
 
 ---
-[The COVID-19 Colombia Project](http://www.coviddataproject.com/)
+[The COVID-19 Colombia Project](https://coviddataproject.com/)
