@@ -8,7 +8,7 @@ MM-DD-YYYY.csv in UTC.
 ## Field description
 **City/Municipality:** The name of the City or Municipality within Colombia. The Municipalities (municipios, in Spanish) are decentralized subdivisions of the Republic of Colombia. The Municipalities make up most of the departments of Colombia with 1,122 municipalities. 
 
-**Department:** The name of the Department. Colombia is a unitary republic made up of thirty-two departments (departamentos, in Spanish) and a Capital District (BOGOT¡ D.C.). Departments are country subdivisions with a certain degree of autonomy. A grouping of municipalities forms departments.
+**Department:** The name of the Department. Colombia is a unitary republic made up of thirty-two departments (departamentos, in Spanish) and a Capital District (BOGOT√Å D.C.). Departments are country subdivisions with a certain degree of autonomy. A grouping of municipalities forms departments.
 
 **Latitude:** Is a geographic coordinate that specifies the north-south position of a point on the Earth's surface.
 
@@ -40,9 +40,9 @@ MM-DD-YYYY.csv in UTC.
 Once a day around 00:00 (UTC). 
   
 ## Data sources 
-For more information, please refer to the [main page]().
+For more information, please refer to the [main page](https://github.com/CovidDataProject/DataCovid19Colombia).
 
 
 
 ---
-[The COVID-19 Colombia Project](http://www.coviddataproject.com/)
+[The COVID-19 Colombia Project](https://coviddataproject.com/)
