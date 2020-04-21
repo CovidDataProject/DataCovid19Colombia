@@ -1,6 +1,6 @@
 # Novel Coronavirus Dataset by The COVID-19 Colombia Project
 
-The COVID-19 Colombia Project is releasing a series of data files with cumulative counts of coronavirus cases in Colombia, at the department, municipals, and cities level, over time. We are compiling this data from the Ministry of Health (MINSALUD) and local news to provide a complete record of the ongoing outbreak.
+**The COVID-19 Colombia Project** is releasing a series of data files with cumulative counts of coronavirus cases in Colombia, at the department, municipalities, and cities level, over time. We are compiling this data from the Ministry of Health (MINSALUD) and local news to provide a complete record of the ongoing outbreak.
 
 The data record begins with the first reported coronavirus case in BOGOTA on Mar. 06, 2020. These data are being made available to the public interested as well as researchers, scientists, and government officials who would like to understand the outbreak better. The databases can be used to power any dashboard and serve in reporting tracking the virus.
 
@@ -16,4 +16,4 @@ All the files proposed of both folders contain a standard geographic identifier 
 
 
 ---
-[The COVID-19 Colombia Project](http://www.coviddataproject.com/)
+[The COVID-19 Colombia Project](https://coviddataproject.com/)
