@@ -43,6 +43,8 @@ Elis Hading Daza Escorcia | mr.daza@ingenieros.com | [@MrDaza](https://github.co
 
 ## Organizations
 
+The organizations of which the members of our team are part are:
+
 Institution      | Research Center    				| City, Country
 -----------------|----------------------------------|-------------------
 Universidad Konrad Lorenz | Research Center for Mathematics and Engineering | Bogotá, Colombia.
